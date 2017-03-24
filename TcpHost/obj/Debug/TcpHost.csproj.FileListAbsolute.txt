@@ -1,0 +1,12 @@
+c:\users\durcek\documents\visual studio 2015\Projects\NetTcpServicetoHostinWindowsServices\TcpHost\bin\Debug\TcpHost.exe.config
+c:\users\durcek\documents\visual studio 2015\Projects\NetTcpServicetoHostinWindowsServices\TcpHost\bin\Debug\TcpHost.exe
+c:\users\durcek\documents\visual studio 2015\Projects\NetTcpServicetoHostinWindowsServices\TcpHost\bin\Debug\TcpHost.pdb
+c:\users\durcek\documents\visual studio 2015\Projects\NetTcpServicetoHostinWindowsServices\TcpHost\obj\Debug\TcpHost.exe
+c:\users\durcek\documents\visual studio 2015\Projects\NetTcpServicetoHostinWindowsServices\TcpHost\obj\Debug\TcpHost.pdb
+c:\users\durcek\documents\visual studio 2015\Projects\NetTcpServicetoHostinWindowsServices\TcpHost\obj\Debug\TcpHost.csprojResolveAssemblyReference.cache
+C:\Users\T420\Documents\Visual Studio 2015\Projects\NetTcpServicetoHostinWindowsServices\TcpHost\bin\Debug\TcpHost.exe.config
+C:\Users\T420\Documents\Visual Studio 2015\Projects\NetTcpServicetoHostinWindowsServices\TcpHost\obj\Debug\TcpHost.exe
+C:\Users\T420\Documents\Visual Studio 2015\Projects\NetTcpServicetoHostinWindowsServices\TcpHost\obj\Debug\TcpHost.pdb
+C:\Users\T420\Documents\Visual Studio 2015\Projects\NetTcpServicetoHostinWindowsServices\TcpHost\bin\Debug\TcpHost.exe
+C:\Users\T420\Documents\Visual Studio 2015\Projects\NetTcpServicetoHostinWindowsServices\TcpHost\bin\Debug\TcpHost.pdb
+C:\Users\T420\Documents\Visual Studio 2015\Projects\NetTcpServicetoHostinWindowsServices\TcpHost\obj\Debug\TcpHost.csprojResolveAssemblyReference.cache
